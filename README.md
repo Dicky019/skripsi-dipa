@@ -33,5 +33,5 @@
             kembangkan oleh pemerintah.
 
     3. Judul : PENERAPAN
-        <del>PENERAPAN</del> SISTEM INFORMASI RUTE DAN TRACKING 
+        "PENERAPAN" SISTEM INFORMASI RUTE DAN TRACKING 
         ANGKUTAN KOTA BERBASIS MULTIPLATFORM
