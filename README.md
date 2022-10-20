@@ -32,6 +32,6 @@
             ANGKUTAN KOTA bisa di manfaatkan dan dapat di 
             kembangkan oleh pemerintah.
 
-    3. Judul : PENERAPAN
+    3. Judul : PENERAPAN ✅
         "PENERAPAN" SISTEM INFORMASI RUTE DAN TRACKING 
         ANGKUTAN KOTA BERBASIS MULTIPLATFORM
